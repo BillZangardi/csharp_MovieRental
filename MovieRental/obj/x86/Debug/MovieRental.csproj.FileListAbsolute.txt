@@ -1,0 +1,10 @@
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\bin\Debug\MovieRental.exe
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\bin\Debug\MovieRental.pdb
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.Properties.Resources.resources
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.csproj.GenerateResource.Cache
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.exe
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.pdb
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.csprojResolveAssemblyReference.cache
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.FrmAddRemove.resources
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.FrmCustomer.resources
+C:\Users\Billyz0914\Dropbox\cSharp\MovieRental\MovieRental\obj\x86\Debug\MovieRental.frmMovie.resources
